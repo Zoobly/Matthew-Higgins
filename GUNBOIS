@@ -1,0 +1,598 @@
+
+<!DOCTYPE html><html
+lang="en"><head><meta
+http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Play Super Fighters Ultimate - Two Player Games</title><meta
+name="description" content="Super fighters continue their fight with an ultimate game chapter. Once again you are going to fight against your opponents in maps which are hard..." /><meta
+name="keywords" content="Two Player Games, Online Multiplayer Games, Multiplayer Flash Games" /><meta
+name="robots" content="index, follow" /><link
+rel="canonical" href="https://www.twoplayergames.org/Super-Fighters-Ultimate/1265.html" /><meta
+property="og:image" content="https://images.twoplayergames.org/files/games/o5/Super_Fighters_Ultimate.jpg?auto=format&w=160" /><link
+rel="shortcut icon" href="https://www.twoplayergames.org/favicon.ico"/><link
+rel="preconnect" href="https://images.twoplayergames.org"><link
+rel="preconnect" href="https://files.twoplayergames.org"><link
+rel="preconnect" href="https://www.googletagmanager.com" crossorigin><link
+rel="preconnect" href="https://www.google-analytics.com" crossorigin><link
+rel="preconnect" href="https://instant.page" crossorigin><link
+rel="preconnect" href="https://consent.cookiebot.com" crossorigin><link
+rel="preconnect" href="https://consentcdn.cookiebot.com" crossorigin><link
+rel="prefetch" href="https://www.twoplayergames.org/templates/_two_main/images/sprite.png"><link
+rel="stylesheet" type="text/css" href="https://www.twoplayergames.org/min/g=css?v=1.19.8"/> <script async src="//www.googletagservices.com/tag/js/gpt.js"></script> <script async src="//files.twoplayergames.org/js/prebid.js"></script> <script>var gptAdSlots=[];var googletag=googletag||{};googletag.cmd=googletag.cmd||[];googletag.cmd.push(function(){googletag.pubads().disableInitialLoad();});googletag.cmd.push(function(){var _YB=_YB||{bm:function(){return(Math.random()>=0.1?'1':'0');},ab:function(){return(_YB.dool?'b':'a'+Math.floor(Math.random()*10));},dc:function(){return(_YB.dool?'d':'c'+Math.floor(Math.random()*20));},mx:function(){return(!_YB.dool?'x':'m'+Math.floor(Math.random()*180));},tt:function(){return('tt'+Math.floor(Math.random()*10));},dool:Math.random()>=0.1};var _yt=new Date(),yb_th=_yt.getUTCHours()-8,yb_tm=_yt.getUTCMinutes(),yb_wd=_yt.getUTCDay();if(yb_th<0){yb_th=24+yb_th;yb_wd-=1;};if(yb_wd<0){yb_wd=7+yb_wd};googletag.pubads().setTargeting('yb_bm',_YB.bm());gptAdSlots[0]=googletag.defineSlot('/52555387/twoplayergames.org_160x600',[160,600],'div-gpt-ad-1517294521555-0').addService(googletag.pubads());googletag.defineSlot('/52555387/twoplayergames.org_300x250',[300,250],'div-gpt-ad-1517294521555-1').addService(googletag.pubads());googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_ab',_YB.ab());});googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_dc',_YB.dc());});googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_mx',_YB.mx());});googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_tt',_YB.tt());});googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_ff',''+Math.round(Math.random()));});googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_th',yb_th.toString());});googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_tm',yb_tm.toString());});googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_wd',yb_wd.toString());});googletag.enableServices();});</script> <script>!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");apstag.init({pubID:'1b6b6ee4-305f-4ae1-8439-8b136c9cdf6e',adServer:'googletag'});apstag.fetchBids({slots:[{slotID:'div-gpt-ad-1517294521555-0',slotName:'/52555387/twoplayergames.org_160x600',sizes:[[160,600]]},{slotID:'div-gpt-ad-1517294521555-1',slotName:'/52555387/twoplayergames.org_300x250',sizes:[[300,250]]}],timeout:2e3},function(bids){googletag.cmd.push(function(){apstag.setDisplayBids();});});</script> <script>var pbjs_currency=1,eur2usd=1.1;var div_0=[[160,600]];var div_1=[[300,250]];var PREBID_TIMEOUT=1000;var FAILSAFE_TIMEOUT=3000;var adUnits=[{code:'div-gpt-ad-1517294521555-0',mediaTypes:{banner:{sizes:div_0}},bids:[{bidder:"ix",params:{siteId:"290133",size:[160,600]}},{bidder:"gumgum",params:{inSlot:"21971"}},{bidder:"brealtime",params:{placementId:"13161671"}},{bidder:"appnexus",params:{placementId:"12791205"}},{bidder:"adform",params:{mid:"529471"}},{bidder:"pubmatic",params:{publisherId:"155949",adSlot:"twoplayergames.org_160x600@160x600"}},{bidder:"smartadserver",params:{currency:"USD",domain:"//prg.smartadserver.com",siteId:"217271",pageId:"911587",formatId:"59465"}},{bidder:"districtm",params:{placementId:"13107298"}},{bidder:"connectad",params:{networkId:"10047",siteId:"1029987"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"DhObopW8kDYQF2A6mDoi"}}]},{code:'div-gpt-ad-1517294521555-1',mediaTypes:{banner:{sizes:div_1}},bids:[{bidder:"connectad",params:{networkId:"10047",siteId:"1029989"}},{bidder:"ix",params:{siteId:"290134",size:[300,250]}},{bidder:"gumgum",params:{inSlot:"21972"}},{bidder:"appnexus",params:{placementId:"12791206"}},{bidder:"adform",params:{mid:"529472"}},{bidder:"pubmatic",params:{publisherId:"155949",adSlot:"twoplayergames.org_300x250@300x250"}},{bidder:"smartadserver",params:{currency:"USD",domain:"//prg.smartadserver.com",siteId:"217271",pageId:"911588",formatId:"59460"}},{bidder:"audienceNetwork",params:{placementId:"369492200123534_369496443456443",tagVersion:"5.5.web"}},{bidder:"districtm",params:{placementId:"13107299"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"DhObopW8kDYQF2A6mDoi"}}]}];var pbjs=pbjs||{};pbjs.que=pbjs.que||[];pbjs.que.push(function(){pbjs.addAdUnits(adUnits);pbjs.requestBids({bidsBackHandler:initAdserver,timeout:PREBID_TIMEOUT});pbjs.bidderSettings={audienceNetwork:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.75);}},aol:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.8);}},adform:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.9)*eur2usd;}},smartadserver:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.9)*eur2usd;}},rubicon:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.82);}},districtm:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.85);}},pubmatic:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.9);}},appnexusAst:{bidCpmAdjustment:function(bidCpm){return(bidCpm*0.81);}}};});function initAdserver(){if(pbjs.initAdserverSet)return;pbjs.initAdserverSet=true;googletag.cmd.push(function(){pbjs.que.push(function(){pbjs.setTargetingForGPTAsync();googletag.pubads().refresh();});});}
+setTimeout(function(){initAdserver();},FAILSAFE_TIMEOUT);</script> <script async src="https://mrb.upapi.net/org?o=5091533141311488&uponit=true&upapi=true"></script> </head><body
+data-instant-intensity="500"><noscript><iframe
+src="https://www.googletagmanager.com/ns.html?id=GTM-WPDDRJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WPDDRJ');</script> <div
+class="body_con"><div
+class="ust_bgr"></div><div
+class="site_body"><div
+class="site_left"><div
+class="top_space"><div
+class="top_social_bgr"></div><div
+class="top_social_con"><div
+id="top_facebook"></div><div
+id="top_gplus"></div></div><div
+class="logo">
+<a
+class="sprite" href="https://www.twoplayergames.org/" title="Two Player Games"></a></div><div
+class="top_gamebox"><div
+class="gamebox_con">
+<a
+href="javascript:;" class="myGameBox">
+My Game Box
+<span
+class="sprite icon"></span>
+<span
+class="badge"></span>
+</a></div><div
+id="myGameBoxList" class="dropdown dropdown-tip dropdown-anchor-right"><div
+class="dropdown-panel"><div
+class="nano myGameBox-nano"><div
+class="nano-content myGameBox-content"></div></div></div></div></div><div
+class="top_search"><form
+action="https://www.twoplayergames.org/index.php" method="get" enctype="application/x-www-form-urlencoded"><div><input
+name="option" value="search" type="hidden"/></div><div
+class="searchInputDiv"><input
+name="keyword" class="input_search" type="text" title="Game search" size="20"
+value="Search..."
+onblur="if(this.value=='') this.value='Search...';"
+onfocus="if(this.value=='Search...') this.value='';" maxlength="20"/></div><div
+class="searchButtonDiv">
+<button
+id="searchButton" class="button_search" type="submit">
+<span
+class="sprite icon"></span>
+</button></div></form></div></div><div
+class="site_top_container"><div
+class="site_top_left"></div><div
+class="sprite site_top"><div
+class="top_menu"><ul><li><a
+href="https://www.twoplayergames.org/6-Action_Games.html"
+class="menu_item6" title="Action Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Action</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/1-Adventure_Games.html"
+class="menu_item1" title="Adventure Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Adventure</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/2-Classic_Games.html"
+class="menu_item2" title="Classic Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Classic</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/4-Fighting_Games.html"
+class="menu_item4" title="Fighting Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Fighting</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/7-Kids_Games.html"
+class="menu_item7" title="Kids Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Kids</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/3-Racing_Games.html"
+class="menu_item3" title="Racing Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Racing</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/5-Sport_Games.html"
+class="menu_item5" title="Sport Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Sport</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/8-3D_Games.html"
+class="menu_item8" title="3D Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">3D</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/12-Our_Games.html"
+class="menu_item12" title="Our Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">Our</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/13-3_4_Player_Games.html"
+class="menu_item13" title="3-4 Player Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">3-4 Player</span>
+</a></li><li><a
+href="https://www.twoplayergames.org/9-1_Player_Games.html"
+class="menu_item9" title="1 Player Games">
+<span
+class="icon_frame">
+<span
+class="sprite icon"></span>
+</span>
+<span
+class="title">1 Player</span>
+</a></li></ul></div></div><div
+class="site_top_right"></div><div
+class="clear"></div></div><div
+class="site_main">
+<noscript><div
+class="alert">
+JavaScript must be enabled for this site to work properly.
+<br
+/><br
+/>
+Please turn on JavaScript when viewing this site.
+<br
+/><br
+/>
+<a
+href="https://www.google.com/search?q=how+to+enable+javascript" target="_blank" rel="nofollow">Help! How to enable JavaScript?</a></div>
+</noscript><div
+class="gamepage_top gamepage_shadow"><div
+class="gamepage_top_left"><div
+class="gamepage_tools_con"><div
+class="gamepage_tools">
+<a
+href="javascript:void(0);" id="add_to_gamebox" class="gamebox_add" title="Add to My Game Box"
+rel="tipsy"><span
+class="sprite icon"></span></a>
+<a
+href="javascript:void(0);" id="turn_off_lights" class="light_on" title="Turn Off the Lights"
+rel="tipsy"><span
+class="sprite icon"></span></a>
+<a
+href="javascript:void(0);" class="expand_game" id="expand" title="Expand the Game"
+rel="tipsy"><span
+class="sprite icon"></span></a>
+<a
+href="javascript:void(0);" class="full_screen" title="Full Screen" rel="tipsy"><span
+class="sprite icon"></span></a>
+<a
+href="https://www.twoplayergames.org/play/1265-Super_Fighters_Ultimate.html" class="play_again"
+title="Play Again" rel="tipsy"><span
+class="sprite icon"></span></a></div><div
+class="gamepage_share">
+<span
+class="s_title">share</span>
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twoplayergames.org%2FSuper-Fighters-Ultimate%2F1265.html"
+title="Facebook" target="_blank"><span
+class="sprite s_facebook"></span></a>
+<a
+href="https://twitter.com/share?text=Play+Super+Fighters+Ultimate+game+at+&amp;url=https%3A%2F%2Fwww.twoplayergames.org%2FSuper-Fighters-Ultimate%2F1265.html"
+title="Twitter" target="_blank"><span
+class="sprite s_twitter"></span></a></div></div>
+<noscript><div
+class="alert">JavaScript must be enabled to play this game.</div>
+</noscript><div
+class="game"><div
+class="game_content"><div
+id="adsContainer" class="loadingbgr"><div
+id="adTitle" style="display: none;">
+<span
+class="titleText"></span></div><div
+id="adcontainer"></div></div><div
+id="flash_container"
+style="width:800px; height:600px;"><div
+id="flashgame"><div
+id="flash_alert"><h2>Attention!</h2><br><br>You need to activate Adobe's Flash Player to play
+this
+game.<br><br><a
+href="https://get.adobe.com/flashplayer/"
+rel="nofollow" target="_blank"><strong>ACTIVATE FLASH
+HERE</strong></a><br><br>
+OR<br>
+<br>
+1. Click the <span
+class="glyphicon glyphicon-lock"></span>
+icon top left in the Chrome address bar.<br>
+2. In the Flash dropdown, select &quot;Allow&quot;<br>
+3. Reload the page.<br></div></div></div></div></div></div><div
+class="gamepage_top_right"><div
+class="nano gamepage-related-nano"><div
+class="nano-content gamepage-related-content"><ul
+class="gamelist"><li>
+<a
+href="https://www.twoplayergames.org/Ultimate-Stickman-Fighting/271.html"
+title="Ultimate Stickman Fighting">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o2/Ultimate_Stickman_Fighting.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o2/Ultimate_Stickman_Fighting.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o2/Ultimate_Stickman_Fighting.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Ultimate Stickman Fighting"/>
+</span>
+<span
+class="title">Ultimate Stickman Fighting</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Dragon-Ball-Z-Ultimate-Power-2/1189.html"
+title="Dragon Ball Z Ultimate Power 2">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o5/Dragon_Ball_Z_Ultimate_Power_2.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o5/Dragon_Ball_Z_Ultimate_Power_2.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o5/Dragon_Ball_Z_Ultimate_Power_2.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Dragon Ball Z Ultimate Power 2"/>
+</span>
+<span
+class="title">Dragon Ball Z Ultimate Power 2</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Super-Fighters/592.html"
+title="Super Fighters">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o3/Super_Fighters.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o3/Super_Fighters.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o3/Super_Fighters.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Super Fighters"/>
+</span>
+<span
+class="title">Super Fighters</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Ultimate-Motorcycles/891.html"
+title="Ultimate Motorcycles">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o4/Ultimate_Motorcycles.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o4/Ultimate_Motorcycles.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o4/Ultimate_Motorcycles.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Ultimate Motorcycles"/>
+</span>
+<span
+class="title">Ultimate Motorcycles</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Super-Heroes-2/581.html"
+title="Super Heroes 2">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o3/Super_Heroes_2.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o3/Super_Heroes_2.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o3/Super_Heroes_2.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Super Heroes 2"/>
+</span>
+<span
+class="title">Super Heroes 2</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Gun-Mayhem/611.html"
+title="Gun Mayhem">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o3/Gun_Mayhem.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o3/Gun_Mayhem.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o3/Gun_Mayhem.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Gun Mayhem"/>
+</span>
+<span
+class="title">Gun Mayhem</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Get-on-Top/904.html"
+title="Get on Top">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o4/Get_on_Top.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o4/Get_on_Top.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o4/Get_on_Top.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Get on Top"/>
+</span>
+<span
+class="title">Get on Top</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/G-Switch-3/1173.html"
+title="G-Switch 3">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/other/G-Switch_3/G_Switch_3.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/other/G-Switch_3/G_Switch_3.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/other/G-Switch_3/G_Switch_3.jpg?auto=format&w=80"
+width="80" height="60"
+alt="G-Switch 3"/>
+</span>
+<span
+class="title">G-Switch 3</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Gun-Mayhem-2-More-Mayhem/709.html"
+title="Gun Mayhem 2 More Mayhem">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o3/Gun_Mayhem_2_More_Mayhem.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o3/Gun_Mayhem_2_More_Mayhem.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o3/Gun_Mayhem_2_More_Mayhem.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Gun Mayhem 2 More Mayhem"/>
+</span>
+<span
+class="title">Gun Mayhem 2 More Mayhem</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Ultimate-Chess/1502.html"
+title="Ultimate Chess">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/other/Ultimate_Chess/Ultimate_Chess_180x135.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/other/Ultimate_Chess/Ultimate_Chess_180x135.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/other/Ultimate_Chess/Ultimate_Chess_180x135.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Ultimate Chess"/>
+</span>
+<span
+class="title">Ultimate Chess</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Ultimate-Robotnik-Duel/484.html"
+title="Ultimate Robotnik Duel">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o2/Ultimate_Robotnik_Duel.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o2/Ultimate_Robotnik_Duel.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o2/Ultimate_Robotnik_Duel.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Ultimate Robotnik Duel"/>
+</span>
+<span
+class="title">Ultimate Robotnik Duel</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Super-Chess/158.html"
+title="Super Chess">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o1/super_chess.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o1/super_chess.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o1/super_chess.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Super Chess"/>
+</span>
+<span
+class="title">Super Chess</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Super-Bomberman/33.html"
+title="Super Bomberman">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o1/super_bomberman.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o1/super_bomberman.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o1/super_bomberman.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Super Bomberman"/>
+</span>
+<span
+class="title">Super Bomberman</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Rooftop-Snipers/1378.html"
+title="Rooftop Snipers">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/other/Rooftop_Snipers/Rooftop_Snipers.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/other/Rooftop_Snipers/Rooftop_Snipers.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/other/Rooftop_Snipers/Rooftop_Snipers.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Rooftop Snipers"/>
+</span>
+<span
+class="title">Rooftop Snipers</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Fire-and-Water-2/492.html"
+title="Fire and Water 2">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/other/Fire_and_Water_2.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/other/Fire_and_Water_2.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/other/Fire_and_Water_2.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Fire and Water 2"/>
+</span>
+<span
+class="title">Fire and Water 2</span>
+</a></li><li>
+<a
+href="https://www.twoplayergames.org/Dragon-Fist-3/619.html"
+title="Dragon Fist 3">
+<span
+class="image"><img
+srcset="https://images.twoplayergames.org/files/games/o3/Dragon_Fist_3.jpg?auto=format&w=80 1x,
+https://images.twoplayergames.org/files/games/o3/Dragon_Fist_3.jpg?auto=format&w=160 2x"
+src="https://images.twoplayergames.org/files/games/o3/Dragon_Fist_3.jpg?auto=format&w=80"
+width="80" height="60"
+alt="Dragon Fist 3"/>
+</span>
+<span
+class="title">Dragon Fist 3</span>
+</a></li></ul></div></div></div><div
+class="clear"></div></div><div
+class="gamepage_bottom"><div
+class="gamepage_bottom_top"><div
+class="gamepage_title"><div
+class="gamepage_title_img">
+<img
+class="myGameBoxAddImg" src="https://images.twoplayergames.org/files/games/o5/Super_Fighters_Ultimate.jpg?auto=format&w=80"
+height="45" width="60" alt="Super Fighters Ultimate"
+title="Super Fighters Ultimate"/></div><h1 class="title" title="Super Fighters Ultimate">
+Super Fighters Ultimate</h1><div
+class="gamepage_like"><div
+id="facebookLike"></div><div
+id="twitterTweet"></div><div
+id="shareEmbed"><a
+class="shareEmbedBtn" href="javascript:void(0);"><span
+class="glyphicon glyphicon-console"></span> Embed</a></div><div
+id="shareEmbedBox" class="dropdown dropdown-tip dropdown-anchor-left"><div
+class="dropdown-panel dropdown-panel-share-embed"><ul
+class="tabs"><li
+class="tab-link current" data-tab="tab-1">
+<span
+class="glyphicon glyphicon-console"></span> Embed</li><li
+class="tab-link" data-tab="tab-2">
+<span
+class="glyphicon glyphicon-share"></span> Share</li></ul><div
+id="tab-1" class="tab-content current"><form><div
+class="form-group pull-right">
+<button
+type="button" class="btn btn-copy" data-val="input-embed"><span
+class="glyphicon glyphicon-copy"></span> Copy
+</button></div><div
+class="form-group left-input">
+<input
+type="text" class="form-control input-embed select-all"
+value="<iframe src=&#x22;https://files.twoplayergames.org/files/games/o5/Super_Fighters_Ultimate.swf&#x22; width=&#x22;800&#x22; height=&#x22;600&#x22; marginwidth=&#x22;0&#x22; marginheight=&#x22;0&#x22; hspace=&#x22;0&#x22; vspace=&#x22;0&#x22; frameborder=&#x22;0&#x22; scrolling=&#x22;no&#x22; webkitallowfullscreen=&#x22;true&#x22; mozallowfullscreen=&#x22;true&#x22; msallowfullscreen=&#x22;true&#x22; allowfullscreen=&#x22;true&#x22;></iframe>"
+readonly=""></div></form></div><div
+id="tab-2" class="tab-content"><form><div
+class="form-group pull-right">
+<button
+type="button" class="btn btn-copy" data-val="input-share"><span
+class="glyphicon glyphicon-copy"></span> Copy
+</button></div><div
+class="form-group left-input">
+<input
+type="text" class="form-control input-share select-all"
+value="https://www.twoplayergames.org/Super-Fighters-Ultimate/1265.html"
+readonly=""></div></form></div></div></div></div></div><div
+class="gamepage_rate"><div
+class="game_score">
+<span
+class="rating_f">4.5</span></div><div
+class="star_rating" id="star-rating"><ul
+class="rating star4"><li
+class="one"><a
+href="javascript:rate(1265, 1);">1</a></li><li
+class="two"><a
+href="javascript:rate(1265, 2);">2</a></li><li
+class="three"><a
+href="javascript:rate(1265, 3);">3</a></li><li
+class="four"><a
+href="javascript:rate(1265, 4);">4</a></li><li
+class="five"><a
+href="javascript:rate(1265, 5);">5</a></li></ul>
+<span
+id="score_resp"></span></div></div><div
+class="clear"></div></div><div
+class="gamepage_bottom_left"><div
+class="gamepage_desc"><div
+class="nano desc_con-nano desc_con"><div
+class="nano-content desc_content"><p>Super fighters continue their fight with an ultimate game chapter. Once again you are going to fight against your opponents in maps which are hard from each other and you are going to try to complete the chapter by surviving. And this chapter comes with some brand new features; guns, new maps and new characters. Call your friend right now and enjoy playing as two player.</p><p><strong>Game controls:<br
+/>
+Player 1:<br
+/>
+Move: &ldquo;ARROW KEYS&rdquo;<br
+/>
+Melee: &ldquo;N&rdquo;<br
+/>
+Shoot: &ldquo;M&rdquo;<br
+/>
+Grenade: &ldquo;,&rdquo;<br
+/>
+Powerup: &ldquo;.&rdquo;</strong></p><p><strong>Player 2:<br
+/>
+Move: &ldquo;W,A,S,D&rdquo;<br
+/>
+Melee: &ldquo;1&rdquo;<br
+/>
+Shoot: &ldquo;2&rdquo;<br
+/>
+Grenade: &ldquo;3&rdquo;<br
+/>
+Powerup: &ldquo;4&rdquo;</strong></p><p>Have fun!</p></div></div></div></div><div
+class="gamepage_bottom_right"><div
+id='div-gpt-ad-1517294521555-1' style='height:250px; width:300px;'> <script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1517294521555-1');});</script> </div></div><div
+class="clear"></div></div> <script>var game_w=800;var game_h=600;document.addEventListener("DOMContentLoaded",function(event){var relatedNano=$('.gamepage-related-nano');relatedNano.height($('.gamepage_top_left').height()-28).nanoScroller();});</script> </div><div
+class="footer">
+<a
+href="https://www.twoplayergames.org/option.about_us/" title="About Us"><b>About Us</b></a><a
+href="https://www.twoplayergames.org/option.help/" title="Help"><b>Help</b></a><a
+href="https://www.twoplayergames.org/option.cookies/" title="Cookies"><b>Cookies</b></a><a
+href="https://www.twoplayergames.org/option.contact/" title="Contact"><b>Contact</b></a><a
+href="https://www.twoplayergames.org/news.html" title="Game Blog"><b>Game Blog</b></a></div><div
+class="social"><ul><li><a
+target="_blank" title="Like us on Facebook" href="https://www.facebook.com/twoplayergames.org"><span
+class="sprite s_facebook"></span></a></li><li><a
+target="_blank" title="Subscribe our YouTube channel" href="https://www.youtube.com/c/TwoplayergamesorgTV"><span
+class="sprite s_youtube"></span></a></li><li><a
+target="_blank" title="Follow us on Twitter" href="https://twitter.com/twoplayergames"><span
+class="sprite s_twitter"></span></a></li></ul></div><div
+class="footer2">
+&copy; <b>2019</b>. Games' rights belong to their respective owners. All site rights reserved.<div
+class="rhmgames">
+<span
+class="sprite rhmgames"></span></div><div
+class="ad-placement" id="ablockercheck"></div></div></div><div
+class="right_160_ad"><div
+id='div-gpt-ad-1517294521555-0' style='height:600px; width:160px;'> <script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1517294521555-0');});</script> </div></div></div></div> <script>var domain='twoplayergames.org';var mydomain='https://www.twoplayergames.org';var games_folder='files/games';var preAd_active=true;</script> <script src="https://www.twoplayergames.org/min/g=mjs,js?v=1.0.2" defer></script> <script src="//instant.page/2.0.0" type="module" defer integrity="sha384-D7B5eODAUd397+f4zNFAVlnDNDtO1ppV8rPnfygILQXhqu3cUndgHvlcJR2Bhig8"></script> <script>var game_id='1265';var game_title='Super Fighters Ultimate';var game_imagefile='o5/Super_Fighters_Ultimate.jpg';var game_link='https://www.twoplayergames.org/Super-Fighters-Ultimate/1265.html';</script> <script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script> <script src="https://www.twoplayergames.org/min/g=swjs"></script> <script>function embedGame(){swfobject.embedSWF("https://files.twoplayergames.org/files/games/o5/Super_Fighters_Ultimate.swf","flashgame","100%","100%","11.0.0","files/expressInstall.swf",null,{'wmode':'direct','base':'https://files.twoplayergames.org/files/games/o5/','allowScriptAccess':'always','allowFullScreen':'true'},null,callback);}</script> </body></html><!-- 2019-10-08 13:36:11 / 0.04893 -->
